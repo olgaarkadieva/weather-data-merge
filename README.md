@@ -6,7 +6,7 @@ In this project, We are collecting the weather data from *2006* to *2014* in a f
 
 In this project i am collecting data from [a link](http://www.submm.caltech.edu/submm.org/site/weather/) website by scrapping through BeautifulSoup library 
 
-in Download.py i have scrapped data from above wesbite and stored in [a relative link](data/) directory . But this data is in different file . we need to combine this data and make it meaningful So i am merging all data in single csv [a relative link](ccat_site_weather_data_2006_to_2014.csv) file 
+in Download.py i have scrapped data from above wesbite and stored in [Data folder](data/) directory . But this data is in different file . we need to combine this data and make it meaningful So i am merging all data in single csv [merge_data csv file](ccat_site_weather_data_2006_to_2014.csv) file 
 
 
 ## To run the Project
