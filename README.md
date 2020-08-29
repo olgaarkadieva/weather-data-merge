@@ -13,9 +13,9 @@ in Download.py i have scrapped data from above wesbite and stored in [Data folde
 To install all the dependencies just write "pip install -r requirements.txt" in console or terminal
 
 
-first run download.py file 
+`first run download.py file`
 
-after that run merge_data.py file 
+`after that run merge_data.py file`
 
 
 
