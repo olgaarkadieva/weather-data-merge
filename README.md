@@ -13,6 +13,6 @@ In `Download.py` I have scrapped data from above website and stored in [Data fol
 Run  `pip install -r requirements.txt`
  in console or terminal to install all the dependencies
 
-`first run download.py file`
+1. `first run download.py file`
 
-`after that run merge_data.py file`
+2. `after that run merge_data.py file`
