@@ -9,6 +9,8 @@ In `Download.py` I have scrapped data from above website and stored in [Data fol
 
 
 ## How To run this Project
+`git clone https://github.com/olgaarkadieva/weather-data-merge.git`
+`cd weather-data-merge`
 
 Run  `pip install -r requirements.txt`
  in console or terminal to install all the dependencies
@@ -16,3 +18,12 @@ Run  `pip install -r requirements.txt`
 1. `first run download.py file`
 
 2. `after that run merge_data.py file`
+
+That's all.
+
+### If you want to improve this project by contributing:
+
+1. Fork the repository
+2. Make changes
+3. Create a Pull Request.
+
